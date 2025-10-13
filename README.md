@@ -1,4 +1,7 @@
 # Heart Disease Prediction using PyTorch Neural Network
+
+## VIDEO: https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/asing138_jh_edu/ET0qSiZFbylPjqzhnxIbpaEBcZNqd32k-3jIEW7986dEJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=I8nbQk
+
 ## Lay Introduction
 Heart disease remains one of the leading causes of death worldwide, making early detection vital for prevention and treatment. This project uses data and artificial intelligence to help predict whether a person is likely to have heart disease based on clinical measurements. Using patient data from the well-known Cleveland Heart Disease dataset, I trained a computer model to recognize patterns linked to heart disease. The dataset includes information such as age, blood pressure, cholesterol, and test results like ECG readings and exercise responses that doctors use and collect. By learning from these factors, the model can estimate a person’s risk of heart disease and even assign a “risk score” showing how likely the condition is.
 
